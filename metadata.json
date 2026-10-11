@@ -1,0 +1,6 @@
+{
+  "name": "Logic Legends — Smart Student Assessment Platform",
+  "description": "Smart student assessment platform across Coding, Aptitude, Communication & Domain Knowledge with weighted scoring and proctored sandbox execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
